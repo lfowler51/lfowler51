@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I can play Saxophone**
 
+- Resume and Updates Coming Soon!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/to be added soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="to be added soon" height="30" width="40" /></a>
