@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liam Fowler</h1>
 <h3 align="center">CS Student With Frontend & Backend Development Experience, Looking For More Projects and Internships</h3>
 
-- 🔭 I’m currently working on [StutterSong](To Be Released Soon)
+- 🔭 I’m currently working on Campus Security Pulse (Stackhacks) and Binghamton SIM's plane simulator
 
 - 🌱 I’m currently learning **pytorch, C++ & more.**
 
@@ -9,9 +9,7 @@
 
 - 🤝 I’m looking for help with **learning new frameworks, languages and more!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lfowler51](https://github.com/lfowler51)
-
-- 📝 I regularly write articles on [nothing right now](nothing right now)
+- 👨‍💻 All of my projects are available at https://github.com/lfowler51
 
 - 💬 Ask me about **python, full stack development, machine learning and more.**
 
@@ -19,7 +17,7 @@
 
 - ⚡ Fun fact **I can play Saxophone**
 
-- Resume and Updates Coming Soon!
+- StutterSong To Be Released Soon!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
